@@ -13,9 +13,8 @@ https://docs.djangoproject.com/en/5.1/ref/settings/
 from pathlib import Path
 
 # settings.py
-
-SPOTIFY_CLIENT_ID = '9a92ef50e19f47038943dd7c339eb928'
-SPOTIFY_CLIENT_SECRET = '619aaed2e6004a3c87e19aa56bf70137'
+SPOTIFY_CLIENT_ID = 'give your client id here '
+SPOTIFY_CLIENT_SECRET = 'give your client secret id here'
 
 
 
